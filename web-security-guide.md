@@ -3,8 +3,7 @@
 
 ## Penetration Environment
 
-- Kali
-
+- [Kali](./kali-guide.md)
 
 ## Penetration Tools
 
@@ -14,11 +13,13 @@
 
 - ZAP
 
+- [Metasploit Framework](./kali-guide.md##Install-metasploit)
+
+
 ## Top 10 Valnerablity
 
 - [Sensitive Data Exposure 敏感信息泄露](./top-10-valnerabilities/sensitive-data-exposure.md)
-
-
+- [SQL Injection](./top-10-valnerabilities/sql-injection.md)
 
 ## Reference
 
