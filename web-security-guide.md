@@ -23,6 +23,12 @@
 - [Sensitive Data Exposure 敏感信息泄露](./top-10-valnerabilities/sensitive-data-exposure.md)
 - [SQL Injection](./top-10-valnerabilities/sql-injection.md)
 
+## 恶意软件
+
+- 勒索软件
+- 键盘跟踪器
+- 间谍软件 (控制你的麦克风，摄像头对你进行监视)
+
 ## Reference
 
 - [freebuf](http://www.freebuf.com/)
