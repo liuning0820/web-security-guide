@@ -7,5 +7,3 @@ SQL Injection is the act of adding an unexpected SQL commands to a query, thereb
 ## sqlmap
 
 [sqlmap](http://sqlmap.org/) is automatic SQL injection and database takeover tool.
-
-
