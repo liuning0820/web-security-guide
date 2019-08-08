@@ -4,7 +4,7 @@
 ## Penetration Environment
 
 - [Kali](./kali-guide.md)
-- [OWAS P Broken Web Applications Project VM](https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project)
+- [OWASP Broken Web Applications Project VM](https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project)
 
 ## Valnerable Training Project
 
@@ -14,9 +14,7 @@
 ## Penetration Tools
 
 - WebInspect
-
 - ZAP
-
 - [Metasploit Framework](./kali-guide.md##Install-metasploit)
 
 ## Top 10 Valnerablity
@@ -41,4 +39,5 @@
 
 - [freebuf](http://www.freebuf.com/)
 - [Defcon](https://defcon.org)
+- [Johnny Long's Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 - [The OWASP Foundation](https://www.owasp.org/index.php/Main_Page)

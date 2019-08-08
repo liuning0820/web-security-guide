@@ -27,7 +27,7 @@
 
 ## WIFI
 
-- 不要使用公共Wifi，尤其不要用来访问sensitive apps.(email, bank, credit card)
+- 谨慎使用公共Wifi，尤其不要用来访问sensitive apps.(email, bank, credit card)
 
 ## Protect Data 数据安全防护
 
