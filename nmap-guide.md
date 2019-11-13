@@ -16,8 +16,12 @@ https://nmap.org
 - 主机探测
 
     ```sh
-    nmap -sn 192.168.1.0-225
-    nmap -sP 192.168.0.1-225
+    # -n 指定不进行DNS解析；-sn 指定使用ping扫描-禁止端口扫描；-PE指定使用ICMP Echo Request 发现主机
+    sudo nmap  -n -sn -PE 192.168.31.0/24
+    # -n 指定不进行DNS解析；-sn 指定使用ping扫描-禁止端口扫描；-PR指定使用ARP Request 发现主机
+    sudo nmap  -n -sn -PE 192.168.31.0/24
+    sudo nmap -sn 192.168.1.0-225R
+    sudo nmap -sP 192.168.0.1-225
     ```
 
 - 端口扫描
@@ -26,7 +30,7 @@ https://nmap.org
     nmap –A 192.168.229.134
     nmap –O 192.168.229.134
 
-    <!-- 扫描IP 192.168.1.100 中开放的端口，并找出哪些服务对应这些端口 -->
+    # -sT 指定使用TCP Connect方法扫描主机 192.168.1.100 中开放的端口，并通过 -sV 找出哪些服务对应这些端口.
     nmap -PN -sT -sV -p0-65535 192.168.1.100
 
     # Read list of hosts/networks from a file (IPv4)
