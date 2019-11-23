@@ -41,3 +41,4 @@
 - [Defcon](https://defcon.org)
 - [Johnny Long's Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 - [The OWASP Foundation](https://www.owasp.org/index.php/Main_Page)
+- [Black Hat](https://www.blackhat.com/)
